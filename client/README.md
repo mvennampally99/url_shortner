@@ -1,7 +1,7 @@
 # URL Shortener user interface
 
 ## 1.0 Bootstrap React application
-    1.1 Create application - npx create-react-app ui --template typescript
+    1.1 Create application - npx create-react-app client --template typescript
 
     1.2 Cleanup files
 
